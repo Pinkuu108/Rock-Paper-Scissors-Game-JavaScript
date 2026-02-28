@@ -34,9 +34,13 @@ Rock-Paper-Scissors-Game-JavaScript/
 ├── index.html
 ├── style.css
 ├── app.js
-├── front.png
-├── win.png
-└── draw.png
+└── images/
+    ├── front.png
+    ├── win.png
+    ├── draw.png
+    ├── paper.png
+    ├── rock.png
+    └── scissors.png
 ```
 
 ---
@@ -53,17 +57,17 @@ Display Result Message (Win / Lose / Draw)
 ## 📸 Application Preview
 
 ### 🖥 Front Screen
-![Front Screen](front.png)
+![Front Screen](images/front.png)
 
 ---
 
 ### 🏆 Win Result Screen
-![Win Screen](win.png)
+![Win Screen](images/win.png)
 
 ---
 
 ### 🤝 Draw Result Screen
-![Draw Screen](draw.png)
+![Draw Screen](images/draw.png)
 
 ---
 
